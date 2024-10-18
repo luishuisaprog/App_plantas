@@ -1,4 +1,4 @@
-# BiomeztliApp
+# App_plantas
 Proyecto orientado a desarrollar una aplicación para el conocimiento de plantas medicinales con la ayuda de Android Studio y sus librerias
 
 
